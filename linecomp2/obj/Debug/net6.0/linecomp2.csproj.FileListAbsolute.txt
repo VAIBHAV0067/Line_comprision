@@ -1,0 +1,15 @@
+C:\Users\vaibhav\source\repos\line_comparision\linecomp2\linecomp2\bin\Debug\net6.0\linecomp2.exe
+C:\Users\vaibhav\source\repos\line_comparision\linecomp2\linecomp2\bin\Debug\net6.0\linecomp2.deps.json
+C:\Users\vaibhav\source\repos\line_comparision\linecomp2\linecomp2\bin\Debug\net6.0\linecomp2.runtimeconfig.json
+C:\Users\vaibhav\source\repos\line_comparision\linecomp2\linecomp2\bin\Debug\net6.0\linecomp2.dll
+C:\Users\vaibhav\source\repos\line_comparision\linecomp2\linecomp2\bin\Debug\net6.0\linecomp2.pdb
+C:\Users\vaibhav\source\repos\line_comparision\linecomp2\linecomp2\obj\Debug\net6.0\linecomp2.csproj.AssemblyReference.cache
+C:\Users\vaibhav\source\repos\line_comparision\linecomp2\linecomp2\obj\Debug\net6.0\linecomp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaibhav\source\repos\line_comparision\linecomp2\linecomp2\obj\Debug\net6.0\linecomp2.AssemblyInfoInputs.cache
+C:\Users\vaibhav\source\repos\line_comparision\linecomp2\linecomp2\obj\Debug\net6.0\linecomp2.AssemblyInfo.cs
+C:\Users\vaibhav\source\repos\line_comparision\linecomp2\linecomp2\obj\Debug\net6.0\linecomp2.csproj.CoreCompileInputs.cache
+C:\Users\vaibhav\source\repos\line_comparision\linecomp2\linecomp2\obj\Debug\net6.0\linecomp2.dll
+C:\Users\vaibhav\source\repos\line_comparision\linecomp2\linecomp2\obj\Debug\net6.0\refint\linecomp2.dll
+C:\Users\vaibhav\source\repos\line_comparision\linecomp2\linecomp2\obj\Debug\net6.0\linecomp2.pdb
+C:\Users\vaibhav\source\repos\line_comparision\linecomp2\linecomp2\obj\Debug\net6.0\linecomp2.genruntimeconfig.cache
+C:\Users\vaibhav\source\repos\line_comparision\linecomp2\linecomp2\obj\Debug\net6.0\ref\linecomp2.dll
